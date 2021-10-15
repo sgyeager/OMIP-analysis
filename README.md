@@ -1,5 +1,5 @@
-# OMDP-Analysis
-A shared repository for jupyter notebooks for CLIVAR-OMDP projects.
+# OMIP-Analysis
+A shared repository of jupyter notebooks for CLIVAR-OMDP projects.
 
 ## Contributing
 Clone this repository to your account, then create your own branch to work in
