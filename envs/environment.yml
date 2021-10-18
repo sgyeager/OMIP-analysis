@@ -1,4 +1,4 @@
-name: OMDP-analysis
+name: OMIP-analysis
 channels:
     - conda-forge
     - nodefaults
@@ -45,7 +45,7 @@ dependencies:
     - tqdm
     - watermark
     - xarray>=0.19
-    - xesmf # xarray interface it ESMF tools
+    - xesmf 
     - xgcm # General Circulation Model Postprocessing with xarray
     - xhistogram # Fast, flexible, label-aware histograms for numpy and xarray
     - xrft # fourier transforms for xarray data
